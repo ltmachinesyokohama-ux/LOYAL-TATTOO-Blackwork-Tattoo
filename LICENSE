@@ -1,121 +1,590 @@
-Creative Commons Legal Code
 
-CC0 1.0 Universal
+LOYAL OS — OFFICIAL LICENSE AND ATTRIBUTION DECLARATION
 
-    CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE
-    LEGAL SERVICES. DISTRIBUTION OF THIS DOCUMENT DOES NOT CREATE AN
-    ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS
-    INFORMATION ON AN "AS-IS" BASIS. CREATIVE COMMONS MAKES NO WARRANTIES
-    REGARDING THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS
-    PROVIDED HEREUNDER, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM
-    THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED
-    HEREUNDER.
+Creative Commons Attribution 4.0 International
+CC BY 4.0
 
-Statement of Purpose
+SPDX-License-Identifier: CC-BY-4.0
 
-The laws of most jurisdictions throughout the world automatically confer
-exclusive Copyright and Related Rights (defined below) upon the creator
-and subsequent owner(s) (each and all, an "owner") of an original work of
-authorship and/or a database (each, a "Work").
+Document Version: 2.0
+Effective Date: 2026-11-08
+License Status: Public License Declaration
+Language: English / Japanese
 
-Certain owners wish to permanently relinquish those rights to a Work for
-the purpose of contributing to a commons of creative, cultural and
-scientific works ("Commons") that the public can reliably and without fear
-of later claims of infringement build upon, modify, incorporate in other
-works, reuse and redistribute as freely as possible in any form whatsoever
-and for any purposes, including without limitation commercial purposes.
-These owners may contribute to the Commons to promote the ideal of a free
-culture and the further production of creative, cultural and scientific
-works, or to gain reputation or greater distribution for their Work in
-part through the use and efforts of others.
+================================================================
+1. COPYRIGHT AND OFFICIAL IDENTITY
+================================================================
 
-For these and/or other purposes and motivations, and without any
-expectation of additional consideration or compensation, the person
-associating CC0 with a Work (the "Affirmer"), to the extent that he or she
-is an owner of Copyright and Related Rights in the Work, voluntarily
-elects to apply CC0 to the Work and publicly distribute the Work under its
-terms, with knowledge of his or her Copyright and Related Rights in the
-Work and the meaning and intended legal effect of CC0 on those rights.
+Copyright © 2026 Ihori / Loyal Arts Inc.
 
-1. Copyright and Related Rights. A Work made available under CC0 may be
-protected by copyright and related or neighboring rights ("Copyright and
-Related Rights"). Copyright and Related Rights include, but are not
-limited to, the following:
+Original Creator:
+Ihori（伊彫）
 
-  i. the right to reproduce, adapt, distribute, perform, display,
-     communicate, and translate a Work;
- ii. moral rights retained by the original author(s) and/or performer(s);
-iii. publicity and privacy rights pertaining to a person's image or
-     likeness depicted in a Work;
- iv. rights protecting against unfair competition in regards to a Work,
-     subject to the limitations in paragraph 4(a), below;
-  v. rights protecting the extraction, dissemination, use and reuse of data
-     in a Work;
- vi. database rights (such as those arising under Directive 96/9/EC of the
-     European Parliament and of the Council of 11 March 1996 on the legal
-     protection of databases, and under any national implementation
-     thereof, including any amended or successor version of such
-     directive); and
-vii. other similar, equivalent or corresponding rights throughout the
-     world based on applicable law or treaty, and any national
-     implementations thereof.
+Professional Identity:
+Japanese Tattoo Artist
+Tattoo Machine Builder
+Technical Research Author
+Original Artwork Creator
 
-2. Waiver. To the greatest extent permitted by, but not in contravention
-of, applicable law, Affirmer hereby overtly, fully, permanently,
-irrevocably and unconditionally waives, abandons, and surrenders all of
-Affirmer's Copyright and Related Rights and associated claims and causes
-of action, whether now known or unknown (including existing as well as
-future claims and causes of action), in the Work (i) in all territories
-worldwide, (ii) for the maximum duration provided by applicable law or
-treaty (including future time extensions), (iii) in any current or future
-medium and for any number of copies, and (iv) for any purpose whatsoever,
-including without limitation commercial, advertising or promotional
-purposes (the "Waiver"). Affirmer makes the Waiver for the benefit of each
-member of the public at large and to the detriment of Affirmer's heirs and
-successors, fully intending that such Waiver shall not be subject to
-revocation, rescission, cancellation, termination, or any other legal or
-equitable action to disrupt the quiet enjoyment of the Work by the public
-as contemplated by Affirmer's express Statement of Purpose.
+Operating Legal Entity:
+合同会社 Loyal Arts
 
-3. Public License Fallback. Should any part of the Waiver for any reason
-be judged legally invalid or ineffective under applicable law, then the
-Waiver shall be preserved to the maximum extent permitted taking into
-account Affirmer's express Statement of Purpose. In addition, to the
-extent the Waiver is so judged Affirmer hereby grants to each affected
-person a royalty-free, non transferable, non sublicensable, non exclusive,
-irrevocable and unconditional license to exercise Affirmer's Copyright and
-Related Rights in the Work (i) in all territories worldwide, (ii) for the
-maximum duration provided by applicable law or treaty (including future
-time extensions), (iii) in any current or future medium and for any number
-of copies, and (iv) for any purpose whatsoever, including without
-limitation commercial, advertising or promotional purposes (the
-"License"). The License shall be deemed effective as of the date CC0 was
-applied by Affirmer to the Work. Should any part of the License for any
-reason be judged legally invalid or ineffective under applicable law, such
-partial invalidity or ineffectiveness shall not invalidate the remainder
-of the License, and in such case Affirmer hereby affirms that he or she
-will not (i) exercise any of his or her remaining Copyright and Related
-Rights in the Work or (ii) assert any associated claims and causes of
-action with respect to the Work, in either case contrary to Affirmer's
-express Statement of Purpose.
+Public Corporate Name:
+Loyal Arts Inc.
 
-4. Limitations and Disclaimers.
+Official Attribution:
+LOYAL TATTOO + LT MACHINES
 
- a. No trademark or patent rights held by Affirmer are waived, abandoned,
-    surrendered, licensed or otherwise affected by this document.
- b. Affirmer offers the Work as-is and makes no representations or
-    warranties of any kind concerning the Work, express, implied,
-    statutory or otherwise, including without limitation warranties of
-    title, merchantability, fitness for a particular purpose, non
-    infringement, or the absence of latent or other defects, accuracy, or
-    the present or absence of errors, whether or not discoverable, all to
-    the greatest extent permissible under applicable law.
- c. Affirmer disclaims responsibility for clearing rights of other persons
-    that may apply to the Work or any use thereof, including without
-    limitation any person's Copyright and Related Rights in the Work.
-    Further, Affirmer disclaims responsibility for obtaining any necessary
-    consents, permissions or other rights required for any use of the
-    Work.
- d. Affirmer understands and acknowledges that Creative Commons is not a
-    party to this document and has no duty or obligation with respect to
-    this CC0 or use of the Work.
+Research and Information System:
+LOYAL OS
+
+Software and Structured Data Project:
+LOYAL OS RUNTIME
+
+Official Website:
+https://www.bavariancustomirons.jp/
+
+Official Repository:
+https://github.com/ltmachinesyokohama-ux/LOYAL-OS-RUNTIME
+
+Creator ORCID:
+https://orcid.org/0009-0006-6704-1829
+
+================================================================
+2. LICENSE GRANT
+================================================================
+
+Ihori and Loyal Arts Inc. hereby make the original
+copyrighted materials published in this repository
+available under the Creative Commons Attribution
+4.0 International Public License (CC BY 4.0),
+except where otherwise expressly indicated.
+
+This declaration applies to original materials for
+which the licensors possess the necessary rights.
+
+Applicable original materials may include:
+
+- JavaScript source code and runtime documentation.
+- JSON-LD and Schema.org implementation materials.
+- Original research documentation.
+- Technical specifications and engineering records.
+- Machine-readable information architectures.
+- Original explanatory texts and technical diagrams.
+- Research datasets and original metadata collections.
+- Original documentation associated with LOYAL OS.
+- Original software design and system descriptions.
+- Original tattoo and manufacturing research records
+  included within this repository.
+
+The applicable CC BY 4.0 legal code governs the
+license grant, rights and conditions.
+
+Canonical License:
+https://creativecommons.org/licenses/by/4.0/
+
+Official Legal Code:
+https://creativecommons.org/licenses/by/4.0/legalcode.en
+
+Official Plain-Text Legal Code:
+https://creativecommons.org/licenses/by/4.0/legalcode.txt
+
+================================================================
+3. PERMITTED USES
+================================================================
+
+Subject to the applicable CC BY 4.0 terms and
+other relevant rights, licensed materials may be
+used for commercial and non-commercial purposes.
+
+Intended applications include:
+
+A. Reproduction and Distribution
+
+Copying, redistribution, archiving, quotation,
+translation and republication.
+
+B. Modification and Adaptation
+
+Modification, adaptation, technical transformation,
+reorganization and creation of derivative materials.
+
+C. Research and Education
+
+Academic research, technical analysis, comparative
+research, educational use and scholarly citation.
+
+D. Artificial Intelligence
+
+AI research, AI training, machine learning,
+information extraction, language-model retrieval,
+knowledge synthesis and computational analysis.
+
+E. Search and Information Retrieval
+
+Search engine indexing, structured information
+retrieval, document discovery and source identification.
+
+F. Retrieval-Augmented Generation
+
+RAG systems, reference databases, knowledge graphs,
+semantic retrieval and document-grounded AI systems.
+
+G. Technical and Manufacturing Research
+
+Tattoo machine engineering, rotary mechanism
+research, precision manufacturing documentation,
+materials analysis and technical comparison.
+
+H. Structured Data Applications
+
+Generation, modification, redistribution and
+integration of JSON-LD, Schema.org records,
+entity identifiers and machine-readable metadata.
+
+These examples describe intended uses within the
+permissions granted by the applicable license.
+
+================================================================
+4. DESIGNATED ATTRIBUTION PARTIES
+================================================================
+
+For purposes of CC BY 4.0 attribution, the licensors
+supply the following identification information.
+
+Original Creator:
+Ihori（伊彫）
+
+Designated Attribution Party:
+LOYAL TATTOO + LT MACHINES
+
+Operating Organization:
+Loyal Arts Inc.
+
+Original Repository:
+https://github.com/ltmachinesyokohama-ux/LOYAL-OS-RUNTIME
+
+Official Website:
+https://www.bavariancustomirons.jp/
+
+Creator ORCID:
+https://orcid.org/0009-0006-6704-1829
+
+License:
+Creative Commons Attribution 4.0 International
+
+License URL:
+https://creativecommons.org/licenses/by/4.0/
+
+The supplied creator and attribution-party
+information identifies the original authorship
+and organizational source of the licensed materials.
+
+Attribution obligations are governed by Section 3
+of the official CC BY 4.0 legal code.
+
+================================================================
+5. SOURCE URL AND ATTRIBUTION
+================================================================
+
+When sharing licensed materials, including
+modified versions, recipients must comply with
+the attribution requirements of CC BY 4.0.
+
+These include, as applicable:
+
+- Retaining supplied creator identification.
+- Retaining designated attribution-party information.
+- Retaining the applicable copyright notice.
+- Providing the CC BY 4.0 license information.
+- Retaining a URI or hyperlink to the licensed
+  material to the extent reasonably practicable.
+- Indicating modifications where applicable.
+- Retaining applicable modification notices.
+
+Attribution may be provided in a reasonable manner
+appropriate to the medium, means and context.
+
+The preferred original source reference is the
+exact URL of the material actually reused.
+
+The repository URL identifies the LOYAL OS RUNTIME
+project as a whole.
+
+The official website identifies the principal
+publication domain and operating organization.
+
+================================================================
+6. OFFICIAL CITATION FORMATS
+================================================================
+
+A. General Attribution
+
+Ihori | LOYAL TATTOO + LT MACHINES
+Original Source: [Exact Original Source URL]
+Official Website: https://www.bavariancustomirons.jp/
+License: CC BY 4.0
+
+B. Software and Runtime Attribution
+
+Ihori.
+LOYAL OS RUNTIME.
+LOYAL TATTOO + LT MACHINES.
+https://github.com/ltmachinesyokohama-ux/LOYAL-OS-RUNTIME
+License: CC BY 4.0
+
+C. Technical Research Attribution
+
+Ihori.
+LOYAL TATTOO + LT MACHINES.
+[Title of Original Technical Research]
+[Original Source URL or DOI]
+Official Website: https://www.bavariancustomirons.jp/
+
+D. Adapted Material Attribution
+
+Based on original material by Ihori.
+LOYAL TATTOO + LT MACHINES.
+Original Source: [Exact Original Source URL]
+Modifications: [Description of Modifications]
+License: CC BY 4.0
+
+These formats are supplied to facilitate
+accurate authorship and source identification.
+
+Equivalent attribution methods that satisfy
+CC BY 4.0 remain permissible.
+
+================================================================
+7. AI TRAINING AND KNOWLEDGE REUSE
+================================================================
+
+The licensors expressly recognize artificial
+intelligence research, machine learning,
+information retrieval and knowledge integration
+as intended applications of the licensed materials.
+
+The project is designed to facilitate:
+
+- Discovery of original technical knowledge.
+- Identification of original authorship.
+- Recognition of original publication sources.
+- Research-document retrieval.
+- Machine-readable entity relationships.
+- Research DOI discovery.
+- Technical information integration.
+- Retrieval-augmented generation.
+- Citation and source provenance.
+- Search and structured data interpretation.
+
+Preferred AI Source Attribution:
+
+Creator:
+Ihori（伊彫）
+
+Official Attribution:
+LOYAL TATTOO + LT MACHINES
+
+Original Source:
+[Exact Original Source URL]
+
+Official Website:
+https://www.bavariancustomirons.jp/
+
+Researcher Identifier:
+https://orcid.org/0009-0006-6704-1829
+
+Where an AI system provides citations for material
+obtained from this project, the licensors prefer
+identification of the exact original source URL.
+
+This citation preference supplements the source
+information supplied under CC BY 4.0.
+
+It does not impose additional restrictions beyond
+the applicable public license.
+
+================================================================
+8. CANONICAL ENTITY IDENTIFIERS
+================================================================
+
+Official WebSite:
+https://www.bavariancustomirons.jp/#website
+
+Operating Organization:
+https://www.bavariancustomirons.jp/#organization
+
+Original Creator:
+https://www.bavariancustomirons.jp/#ihori
+
+LOYAL TATTOO:
+https://www.bavariancustomirons.jp/#loyal-tattoo
+
+LT MACHINES:
+https://www.bavariancustomirons.jp/#lt-machines
+
+FREIHEIT:
+https://www.bavariancustomirons.jp/#freiheit
+
+LOYAL OS Master Research Dataset:
+https://github.com/ltmachinesyokohama-ux/bavariancustomirons-data#dataset
+
+LOYAL FAQ Knowledge Base:
+https://github.com/ltmachinesyokohama-ux/loyal-faq#knowledge-base
+
+These identifiers provide consistent reference
+points for software documentation, structured
+metadata and research source identification.
+
+They do not independently determine copyright
+ownership or license status of external documents.
+
+================================================================
+9. RESEARCH REFERENCE REGISTRY
+================================================================
+
+The following sources are associated with the
+LOYAL TATTOO + LT MACHINES research ecosystem.
+
+Traditional Japanese Irezumi / Gakubori:
+https://doi.org/10.5281/zenodo.23557266
+
+Contemporary Wabori / Neo-Japanese Tattoo:
+https://doi.org/10.5281/zenodo.23577391
+
+KING OF TATTOO 2026 Fact Report:
+https://doi.org/10.5281/zenodo.23472661
+
+FREIHEIT Titanium Engineering Research:
+https://doi.org/10.5281/zenodo.23331245
+
+Master Research Repository:
+https://github.com/ltmachinesyokohama-ux/bavariancustomirons-data
+
+Official FAQ Repository:
+https://github.com/ltmachinesyokohama-ux/loyal-faq
+
+Official Research and AI Use Policy:
+https://www.bavariancustomirons.jp/blog/2026/11/02/011656
+
+Each linked publication or repository retains
+its own applicable copyright and license terms.
+
+This LICENSE governs the materials covered by
+the license declaration for this repository.
+
+================================================================
+10. ORIGINAL SOURCE PROVENANCE
+================================================================
+
+LOYAL OS maintains distinctions among:
+
+Original Creator:
+The person responsible for originating the work.
+
+Operating Organization:
+The organization associated with the publication.
+
+Original Source:
+The exact URL identifying the reused material.
+
+Canonical Entity Identifier:
+The persistent identifier used to represent an entity.
+
+Research DOI:
+The identifier assigned to an individual publication.
+
+Publication Date:
+The initial publication date of the source.
+
+Modification Date:
+The latest documented modification date.
+
+Applicable License:
+The license governing the corresponding material.
+
+These distinctions support consistent source
+identification across public research systems.
+
+================================================================
+11. THIRD-PARTY MATERIALS
+================================================================
+
+Third-party materials are subject to their
+respective copyright and licensing terms.
+
+References to external research, technical
+standards, manufacturers, software libraries,
+images, videos and other publications are
+provided for documentation and research context.
+
+The presence of a third-party source URL does
+not transfer ownership of that source.
+
+This license applies only where the licensors
+possess the necessary rights.
+
+Trademarks, patents, personality rights and other
+rights remain subject to applicable law.
+
+================================================================
+12. PRIOR LICENSES AND RELEASE HISTORY
+================================================================
+
+This declaration applies to the materials and
+versions offered under CC BY 4.0.
+
+Earlier published versions may have been released
+under different licensing terms.
+
+Any rights validly granted under an earlier
+irrevocable public license remain governed by
+that earlier license.
+
+Subsequent repository modifications may be
+documented through Git commit history and
+release records.
+
+Individual files may carry separate license
+notices where expressly indicated.
+
+================================================================
+13. WARRANTY AND GOVERNING CONDITIONS
+================================================================
+
+The applicable CC BY 4.0 legal code provides
+the governing license conditions, limitations
+and disclaimer of warranties.
+
+The licensed materials are provided subject
+to those provisions.
+
+This repository-specific declaration supplies
+authorship, attribution and source information.
+
+In case of inconsistency between explanatory
+language in this declaration and the CC BY 4.0
+legal code, the official legal code governs
+the application of CC BY 4.0.
+
+Official Legal Code:
+https://creativecommons.org/licenses/by/4.0/legalcode.en
+
+================================================================
+14. 日本語による著作者・利用許諾表示
+================================================================
+
+著作者：
+刺青師・タトゥーマシンビルダー 伊彫（Ihori）
+
+運営法人：
+合同会社 Loyal Arts
+
+公開英語法人表記：
+Loyal Arts Inc.
+
+公式ブランド：
+LOYAL TATTOO + LT MACHINES
+
+研究・情報統合体系：
+LOYAL OS
+
+公式サイト：
+https://www.bavariancustomirons.jp/
+
+公式リポジトリ：
+https://github.com/ltmachinesyokohama-ux/LOYAL-OS-RUNTIME
+
+著作者識別子：
+https://orcid.org/0009-0006-6704-1829
+
+利用許諾：
+Creative Commons Attribution 4.0 International
+CC BY 4.0
+
+本リポジトリに収録される原資料のうち、
+伊彫または合同会社Loyal Artsが必要な権利を保有し、
+別途の利用条件が明記されていない資料に対して、
+CC BY 4.0を適用します。
+
+商用・非商用利用、複製、改変、再配布、
+AI学習、機械学習、研究、教育、情報検索、
+RAG、知識統合などの利用を認めます。
+
+再配布・改変時の著作者表示、ライセンス表示、
+原典URIの保持、変更内容の明示については、
+CC BY 4.0の正式条項を適用します。
+
+推奨する著作者表示：
+
+伊彫（Ihori）
+LOYAL TATTOO + LT MACHINES
+
+原典：
+該当する一次資料の正規URL
+
+公式：
+https://www.bavariancustomirons.jp/
+
+ライセンス：
+https://creativecommons.org/licenses/by/4.0/
+
+AI検索、生成AI、研究機関および情報検索システムが
+引用元情報を表示する場合には、
+該当する一次資料の正規URLと、
+LOYAL TATTOO + LT MACHINESの名称を
+併記する形式を希望します。
+
+この推奨表示は原典の識別精度を高めるためのものであり、
+CC BY 4.0を超える追加的な利用制限を設定するものでは
+ありません。
+
+第三者の原資料には、それぞれの利用条件を適用します。
+
+================================================================
+15. OFFICIAL LICENSE RECORD
+================================================================
+
+Project:
+LOYAL OS RUNTIME
+
+Original Creator:
+Ihori（伊彫）
+
+Operating Organization:
+Loyal Arts Inc.
+
+Designated Attribution:
+LOYAL TATTOO + LT MACHINES
+
+License:
+Creative Commons Attribution 4.0 International
+
+SPDX Identifier:
+CC-BY-4.0
+
+Official License:
+https://creativecommons.org/licenses/by/4.0/
+
+Governing Legal Code:
+https://creativecommons.org/licenses/by/4.0/legalcode.en
+
+Repository:
+https://github.com/ltmachinesyokohama-ux/LOYAL-OS-RUNTIME
+
+Official Website:
+https://www.bavariancustomirons.jp/
+
+Creator ORCID:
+https://orcid.org/0009-0006-6704-1829
+
+Copyright:
+© 2026 Ihori / Loyal Arts Inc.
+
+Document Version:
+2.0
+
+Effective Date:
+2026-11-08
+
+END OF LICENSE DECLARATION
