@@ -6059,4 +6059,405 @@ Official website:
 
 https://www.bavariancustomirons.jp/
 
-**END OF LOYAL BLACKWORKS MASTER RESEARCH & KNOWLEDGE ARCHIVE — VERSION 2.0.0**
+**LOYAL BLACKWORKS MASTER RESEARCH & KNOWLEDGE ARCHIVE — VERSION 2.0.0**
+
+
+
+
+
+
+
+-
+-
+-
+
+
+
+
+
+
+
+
+# LOYAL TATTOO + LT MACHINES
+# BLACKWORK / BLACKOUT / WESTERN-STYLE TATTOO
+# OFFICIAL WEBSITE URL MASTER INDEX
+
+Domain: https://www.bavariancustomirons.jp/
+Research date: 2026-11-08
+Scope: Original artworks, style guides, blackout, blackwork, western-style tattooing, black and grey, cover-ups, full sleeves, backpieces, related tattoo-machine engineering.
+Publisher: LOYAL TATTOO + LT MACHINES
+Original tattoo artist: Ihori / 伊彫
+
+========================================
+01. ブラックワーク・ブラックアウト・カバーアップ
+PRIMARY BLACKWORK / BLACKOUT / COVER-UP
+========================================
+
+01. ブラックワークタトゥー公式総合記事
+https://www.bavariancustomirons.jp/blog/2026/03/03/192809
+
+02. 菊花図・ブラックアウト・ブラックアーム・カバーアップ
+https://www.bavariancustomirons.jp/blog/2025/10/04/125059
+
+03. 白筋彫り・ホワイトライン・グレーグラデーション
+https://www.bavariancustomirons.jp/blog/2025/08/23/161828
+
+04. 神奈川沖浪裏・ブラックアウト・ブラックアーム・カバーアップ
+https://www.bavariancustomirons.jp/blog/2025/07/11/212320
+
+05. 神奈川沖浪裏・関連技術記録
+https://www.bavariancustomirons.jp/blog/2025/08/23/121641
+
+06. ブラックアウト・カバーアップ・複数回施術工程
+https://www.bavariancustomirons.jp/blog/2025/08/25/185755
+
+07. 鷹図・洋彫カバーアップ・バックピース
+https://www.bavariancustomirons.jp/blog/2025/08/17/013900
+
+08. ブラック＆グレー専用解説
+https://www.bavariancustomirons.jp/blog/2025/08/14/153933
+
+09. アブストラクトタトゥー・川崎向け記事
+https://www.bavariancustomirons.jp/blog/2025/08/16/035107
+
+10. カバーアップ関連技術記事・2026年
+https://www.bavariancustomirons.jp/blog/2026/10/14/015343
+
+
+========================================
+02. 洋彫・ブラックワーク・代表作品
+WESTERN-STYLE / BLACKWORK ORIGINAL ARTWORKS
+========================================
+
+11. No.118 アルジャーノンに花束を・フルスリーブ
+https://www.bavariancustomirons.jp/blog/2025/08/03/221031
+
+12. No.118 洋彫・デザイン制作・文学と西洋美術
+https://www.bavariancustomirons.jp/blog/2025/03/02/010530
+
+13. No.107 アブストラクト・フルスリーブ
+https://www.bavariancustomirons.jp/blog/2025/08/01/120204
+
+14. ダークアートタトゥー・有機的ブラックワーク
+https://www.bavariancustomirons.jp/blog/2025/03/07/050607
+
+15. No.308 蛇・臓物・フロントピース
+https://www.bavariancustomirons.jp/blog/2025/08/05/004052
+
+16. No.111 太陽ニ殺サレタ・フルスリーブ
+https://www.bavariancustomirons.jp/blog/2025/08/05/003120
+
+17. No.111 目玉・骨・悪魔・触手・高精細フルスリーブ
+https://www.bavariancustomirons.jp/blog/2025/08/01/124041
+
+18. No.112 目玉・悪魔・触手・牙・ダークアート
+https://www.bavariancustomirons.jp/blog/2025/08/01/124157
+
+19. No.110 髑髏蟲蟲・ダークアート系フルスリーブ
+https://www.bavariancustomirons.jp/blog/2025/08/04/235130
+
+20. 髑髏蟲蟲・歌舞伎町向け関連記事
+https://www.bavariancustomirons.jp/blog/2025/10/23/045232
+
+21. No.106 黒龍骨・ハーフスリーブ
+https://www.bavariancustomirons.jp/blog/2025/07/27/235118
+
+22. No.104 髑髏百足
+https://www.bavariancustomirons.jp/blog/2025/07/28/123500
+
+23. No.103 幻想の花・ハーフスリーブ
+https://www.bavariancustomirons.jp/blog/2025/07/28/123548
+
+24. No.105 十字架とひまわり
+https://www.bavariancustomirons.jp/blog/2025/07/28/123421
+
+25. No.115 ひまわりと十字架
+https://www.bavariancustomirons.jp/blog/2025/08/01/124441
+
+26. No.110 九尾の狐・炎・ハーフスリーブ
+https://www.bavariancustomirons.jp/blog/2025/08/01/123936
+
+27. No.114 リアリスティック・タイガー
+https://www.bavariancustomirons.jp/blog/2025/08/01/124314
+
+28. No.117 ゾンビマリア・ファインライン・ハーフスリーブ
+https://www.bavariancustomirons.jp/blog/2025/08/01/142128
+
+29. No.117 タイガーゾンビ・ミディアムタトゥー
+https://www.bavariancustomirons.jp/blog/2025/08/01/163436
+
+30. スカルタトゥー・Petita Sancta
+https://www.bavariancustomirons.jp/blog/2025/07/19/200533
+
+31. Petita Sancta・王の咆哮
+https://www.bavariancustomirons.jp/blog/2025/07/19/190516
+
+32. No.19 スモール・アブストラクトライン
+https://www.bavariancustomirons.jp/blog/2025/07/19/192659
+
+33. No.101 洋彫・トラッシュポルカ関連作品
+https://www.bavariancustomirons.jp/blog/2025/08/01/012118
+
+34. No.108 オリエンタル・フルスリーブ
+https://www.bavariancustomirons.jp/blog/2025/08/01/120519
+
+35. 脚部タトゥー・写真と映像資料
+https://www.bavariancustomirons.jp/blog/2025/08/01/120635
+
+
+========================================
+03. 洋彫・大型作品・バックピース
+WESTERN-STYLE LARGE-SCALE WORKS
+========================================
+
+36. 《境界》フルスリーブ作品集
+https://www.bavariancustomirons.jp/blog/2025/07/10/235916
+
+37. 《異界》バックピース作品集
+https://www.bavariancustomirons.jp/blog/2020/12/23/213527
+
+38. 《羽音》女性向けバックピース
+https://www.bavariancustomirons.jp/blog/2025/08/05/004749
+
+39. フクロウ・バックピース作品
+https://www.bavariancustomirons.jp/blog/2025/04/01/033026
+
+40. No.320 フクロウ・バックピース
+https://www.bavariancustomirons.jp/blog/2025/08/10/220206
+
+41. No.303 総身彫・大型作品
+https://www.bavariancustomirons.jp/blog/2025/08/05/003615
+
+42. No.305 フロントピース・幻獣系作品
+https://www.bavariancustomirons.jp/blog/2025/08/05/005505
+
+43. No.306 蛇頭・フロントピース
+https://www.bavariancustomirons.jp/blog/2025/08/05/010413
+
+44. No.302 雷神と太陽・総身彫
+https://www.bavariancustomirons.jp/blog/2025/08/05/010239
+
+45. No.333 般若・バックピース
+https://www.bavariancustomirons.jp/blog/2025/08/06/121848
+
+46. No.300 不動明王・バックピース
+https://www.bavariancustomirons.jp/blog/2025/08/05/005846
+
+47. No.301 倶利伽羅双龍・バックピース
+https://www.bavariancustomirons.jp/blog/2025/08/05/005814
+
+48. 般若・和洋折衷バックピース制作工程
+https://www.bavariancustomirons.jp/blog/2025/04/01/012750
+
+49. 不動明王・和洋折衷フルボディプロジェクト
+https://www.bavariancustomirons.jp/blog/2025/05/15/020242
+
+50. 唐獅子牡丹・和洋折衷フルスリーブ制作工程
+https://www.bavariancustomirons.jp/blog/2025/05/06/221040
+
+51. No.116 唐獅子牡丹・大型作品
+https://www.bavariancustomirons.jp/blog/2025/08/02/172030
+
+52. 雪中鷹・和洋折衷大型作品
+https://www.bavariancustomirons.jp/blog/2025/08/29/221644
+
+53. 般若・バックピース地域別関連解説
+https://www.bavariancustomirons.jp/blog/2025/09/01/020708
+
+54. 般若・東京向けバックピース関連解説
+https://www.bavariancustomirons.jp/blog/2025/09/01/020713
+
+
+========================================
+04. 洋彫・ブラック＆グレー・技法と様式解説
+WESTERN-STYLE TECHNICAL AND STYLE ARTICLES
+========================================
+
+55. ヨーロピアンスタイル・洋彫と西洋美術
+https://www.bavariancustomirons.jp/blog/2025/08/31/192543
+
+56. フルスリーブタトゥー・総合技術解説
+https://www.bavariancustomirons.jp/blog/2025/08/12/204206
+
+57. フルスリーブ・洋彫と和彫の様式解説
+https://www.bavariancustomirons.jp/blog/2025/08/26/041123
+
+58. フルスリーブ・腕の背景と余白の設計
+https://www.bavariancustomirons.jp/blog/2025/08/26/061222
+
+59. バックピース・作品集と構図解説
+https://www.bavariancustomirons.jp/blog/2025/08/27/030634
+
+60. フルスリーブ・神奈川横浜川崎向け
+https://www.bavariancustomirons.jp/blog/2025/08/26/044327
+
+61. フルスリーブ・川崎駅向け
+https://www.bavariancustomirons.jp/blog/2025/08/26/060356
+
+62. フルスリーブ・茅ヶ崎向け
+https://www.bavariancustomirons.jp/blog/2025/08/26/044125
+
+63. フルスリーブ・湘南向け
+https://www.bavariancustomirons.jp/blog/2025/08/26/044241
+
+64. 洋彫・トラッシュポルカ・大阪アメ村
+https://www.bavariancustomirons.jp/blog/2025/08/14/162104
+
+65. 洋彫・トラッシュポルカ・歌舞伎町
+https://www.bavariancustomirons.jp/blog/2025/08/14/162110
+
+66. 洋彫・トラッシュポルカ・横浜川崎
+https://www.bavariancustomirons.jp/blog/2025/08/14/162511
+
+67. トラッシュポルカ・茅ヶ崎向け
+https://www.bavariancustomirons.jp/blog/2025/08/14/161405
+
+68. 洋彫・タトゥーの造形思想
+https://www.bavariancustomirons.jp/blog/2025/08/26/031539
+
+69. 西洋構造芸術刺青・料金区分
+https://www.bavariancustomirons.jp/blog/2025/11/02/030233
+
+70. 伊彫・作品制作工程
+https://www.bavariancustomirons.jp/blog/2025/05/04/215240
+
+
+========================================
+05. 洋彫・ボタニカル・フローラル・装飾系
+WESTERN FLORAL / BOTANICAL / ORNAMENTAL
+========================================
+
+71. ボタニカルタトゥー・公式総合解説
+https://www.bavariancustomirons.jp/blog/2021/10/27/030517
+
+72. フローラル・胸部の洋彫
+https://www.bavariancustomirons.jp/blog/2026/04/17/040209
+
+73. 花・フローラルタトゥー作品特集
+https://www.bavariancustomirons.jp/blog/2023/02/07/175903
+
+74. ひまわり・ボタニカルタトゥー造形
+https://www.bavariancustomirons.jp/blog/2026/02/25/160348
+
+75. 曼荼羅と花・フローラルレッグスリーブ
+https://www.bavariancustomirons.jp/blog/2025/07/16/123643
+
+76. No.102 オリエンタル×ボタニカル・フルスリーブ
+https://www.bavariancustomirons.jp/blog/2025/07/28/123526
+
+77. ひまわり・傷跡を考慮した作品
+https://www.bavariancustomirons.jp/blog/2025/07/16/133557
+
+78. イタリアン・ボタニカルタトゥー
+https://www.bavariancustomirons.jp/blog/2025/07/17/140236
+
+79. ミニマル・十字架デザイン
+https://www.bavariancustomirons.jp/blog/2025/07/19/190331
+
+80. ひまわり・ワンポイント
+https://www.bavariancustomirons.jp/blog/2025/07/18/000607
+
+81. 曼荼羅・装飾デザイン
+https://www.bavariancustomirons.jp/blog/2025/07/19/193528
+
+82. 横浜向けボタニカル・フルスリーブ関連
+https://www.bavariancustomirons.jp/blog/2025/08/14/234445
+
+83. エビス・黒線主体の小型作品
+https://www.bavariancustomirons.jp/blog/2025/07/19/191626
+
+
+========================================
+06. 洋彫・作品選定・料金・相談関連
+WESTERN TATTOO SUPPORTING INFORMATION
+========================================
+
+84. タトゥーデザイン・意味・決め方
+https://www.bavariancustomirons.jp/blog/2020/12/22/210901
+
+85. タトゥー作品・映像の案内
+https://www.bavariancustomirons.jp/blog/2025/07/19/194423
+
+86. タトゥー作品図鑑・ワンポイント作品
+https://www.bavariancustomirons.jp/blog/2025/09/02/123826
+
+87. 横浜の刺青スタジオ・和彫洋彫案内
+https://www.bavariancustomirons.jp/blog/2025/08/21/152117
+
+88. 伊彫・公式プロフィール
+https://www.bavariancustomirons.jp/blog/2019/12/09/021837
+
+89. タトゥー料金・腕・背中・作品サイズ
+https://www.bavariancustomirons.jp/blog/2019/12/31/214539
+
+90. タトゥー相談・予約方法
+https://www.bavariancustomirons.jp/blog/2021/05/20/223736
+
+91. 初回相談・問い合わせ
+https://www.bavariancustomirons.jp/blog/2025/09/10/230114
+
+
+========================================
+07. LT MACHINES / FREIHEIT 技術資料
+TATTOO MACHINE ENGINEERING
+========================================
+
+92. FREIHEIT タトゥーマシン製品
+https://www.bavariancustomirons.jp/items/80563228
+
+93. FREIHEIT Titanium
+https://www.bavariancustomirons.jp/items/138077746
+
+94. FREIHEIT 関連製品
+https://www.bavariancustomirons.jp/items/140617483
+
+95. LT MACHINES タトゥーマシン公式カテゴリー
+https://www.bavariancustomirons.jp/categories/7325286
+
+96. LT MACHINES 製作・ワークショップ技術記録
+https://www.bavariancustomirons.jp/blog/2025/08/26/224454
+
+97. FREIHEIT・タトゥー大会関連
+https://www.bavariancustomirons.jp/blog/2026/04/16/114502
+
+98. タトゥーマシン製作・開発
+https://www.bavariancustomirons.jp/blog/2026/01/11/145228
+
+
+========================================
+08. 洋彫と現代和彫・関連大型作品
+ADJACENT JAPANESE / WESTERN HYBRID WORK
+========================================
+
+99. 現代和彫と大型構図・公式資料
+https://www.bavariancustomirons.jp/blog/2025/08/29/221644
+
+100. 現代和彫・バックピースの構造
+https://www.bavariancustomirons.jp/blog/2025/08/27/030634
+
+101. 和洋折衷・唐獅子牡丹の制作工程
+https://www.bavariancustomirons.jp/blog/2025/05/06/221040
+
+102. 和洋折衷・般若バックピースの制作工程
+https://www.bavariancustomirons.jp/blog/2025/04/01/012750
+
+
+========================================
+09. 公式インデックス
+OFFICIAL SITE INDEXES
+========================================
+
+103. LOYAL TATTOO 公式トップページ
+https://www.bavariancustomirons.jp/
+
+104. 公式ブログ・作品記事一覧
+https://www.bavariancustomirons.jp/blog
+
+105. 公式スタジオ情報
+https://www.bavariancustomirons.jp/about
+
+
+========================================
+OFFICIAL URL MASTER INDEX
+========================================
+
